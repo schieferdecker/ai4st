@@ -1,0 +1,638 @@
+{
+    "a/b testing": [
+        "a/b testing"
+    ],
+    "acceptance criteria": [
+        "acceptance criteria"
+    ],
+    "acceptance testing": [
+        "acceptance testing"
+    ],
+    "accessibility testing": [
+        "accessibility testing"
+    ],
+    "ad hoc testing": [
+        "ad hoc testing",
+        "ad hoc-testing",
+        "adhoc testing"
+    ],
+    "adversarial testing": [
+        "adversarial testing"
+    ],
+    "agile test leader": [
+        "agile test leader",
+        "agile test manager",
+        "quality coach",
+        "quality leader"
+    ],
+    "agile test team leader": [
+        "agile test team leader"
+    ],
+    "ai testing": [
+        "ai testing"
+    ],
+    "alpha testing": [
+        "alpha testing"
+    ],
+    "api testing": [
+        "api testing"
+    ],
+    "automated testing": [
+        "automated testing"
+    ],
+    "back-to-back testing": [
+        "back-to-back testing",
+        "back to back testing"
+    ],
+    "base choice coverage": [
+        "base choice coverage",
+        "p-v pair coverage"
+    ],
+    "beta testing": [
+        "beta testing"
+    ],
+    "black box test technique": [
+        "black box test technique",
+        "black-box test technique",
+        "closed box testing",
+        "specification based testing",
+        "specification-based testing"
+    ],
+    "boundary value analysis": [
+        "boundary value analysis"
+    ],
+    "branch coverage": [
+        "branch coverage"
+    ],
+    "branch testing": [
+        "branch testing"
+    ],
+    "change orientation in test approach": [
+        "change orientation in test approach"
+    ],
+    "checklist based testing": [
+        "checklist based testing"
+    ],
+    "compliance testing": [
+        "compliance testing",
+        "conformance testing",
+        "regulation testing",
+        "standards testing"
+    ],
+    "component integration testing": [
+        "component integration testing",
+        "module integration testing",
+        "unit integration testing"
+    ],
+    "component testing": [
+        "component testing"
+    ],
+    "condition coverage": [
+        "condition coverage",
+        "branch condition coverage"
+    ],
+    "confirmation testing": [
+        "confirmation testing",
+        "retesting"
+    ],
+    "conformance testing": [
+        "conformance testing"
+    ],
+    "continuous testing": [
+        "continuous testing"
+    ],
+    "contract testing": [
+        "contract testing"
+    ],
+    "coverage": [
+        "coverage",
+        "coverage metric",
+        "coverage-oriented metric",
+        "test coverage"
+    ],
+    "coverage item": [
+        "coverage item",
+        "test coverage item"
+    ],
+    "crowd testing": [
+        "crowd testing"
+    ],
+    "decision coverage": [
+        "decision coverage"
+    ],
+    "decision table testing": [
+        "decision table testing"
+    ],
+    "defect orientation in test approach": [
+        "defect orientation in test approach"
+    ],
+    "defect oriented metric": [
+        "defect oriented metric",
+        "defect metric",
+        "defect-oriented metric"
+    ],
+    "destructive testing": [
+        "destructive testing"
+    ],
+    "device-based testing": [
+        "device-based testing"
+    ],
+    "domain-specific test types": [
+        "domain-specific test types"
+    ],
+    "dynamic application security testing": [
+        "dynamic application security testing"
+    ],
+    "dynamic testing": [
+        "dynamic testing"
+    ],
+    "each choice coverage": [
+        "each choice coverage",
+        "ecc"
+    ],
+    "end-to-end testing": [
+        "end-to-end testing",
+        "e2e testing"
+    ],
+    "entry criteria": [
+        "entry criteria",
+        "completion criteria",
+        "test completion criteria"
+    ],
+    "equivalence partitioning": [
+        "equivalence partitioning"
+    ],
+    "error guessing": [
+        "error guessing"
+    ],
+    "exhaustive testing": [
+        "exhaustive testing"
+    ],
+    "exit criteria": [
+        "exit criteria",
+        "completion criteria",
+        "test completion criteria"
+    ],
+    "experience coverage": [
+        "experience coverage",
+        "experience based test metric",
+        "experience-based test metric"
+    ],
+    "experience-based testing": [
+        "experience-based testing",
+        "experience based test technique",
+        "experience based testing",
+        "experience-based test technique"
+    ],
+    "exploratory testing": [
+        "exploratory testing"
+    ],
+    "formal review": [
+        "formal review"
+    ],
+    "functional testing": [
+        "functional testing"
+    ],
+    "fundamental test process": [
+        "fundamental test process"
+    ],
+    "gambling testing": [
+        "gambling testing"
+    ],
+    "grey-box testing": [
+        "grey-box testing",
+        "gray box testing",
+        "gray-box testing",
+        "grey box testing"
+    ],
+    "gui testing": [
+        "gui testing",
+        "graphical user interface testing"
+    ],
+    "high-level test case": [
+        "high-level test case",
+        "abstract test case",
+        "abstract testcase",
+        "high level test case",
+        "high level testcase",
+        "logical test case",
+        "logical testcase"
+    ],
+    "informal review": [
+        "informal review"
+    ],
+    "inspection": [
+        "inspection"
+    ],
+    "integration testing": [
+        "integration testing"
+    ],
+    "interactive application security testing": [
+        "interactive application security testing"
+    ],
+    "interface testing": [
+        "interface testing"
+    ],
+    "interoperability testing": [
+        "interoperability testing"
+    ],
+    "level test plan": [
+        "level test plan",
+        "level testplan"
+    ],
+    "llm structural coverage": [
+        "llm structural coverage"
+    ],
+    "load testing": [
+        "load testing"
+    ],
+    "low-level test case": [
+        "low-level test case",
+        "concrete test case",
+        "concrete testcase",
+        "low level test case",
+        "low level testcase",
+        "physical test case",
+        "physical testcase"
+    ],
+    "maintenance testing": [
+        "maintenance testing"
+    ],
+    "manual testing": [
+        "manual testing",
+        "unscripted testing"
+    ],
+    "master test plan": [
+        "master test plan",
+        "master testplan"
+    ],
+    "math testing": [
+        "math testing"
+    ],
+    "mbt modeller": [
+        "mbt modeller"
+    ],
+    "method orientation in test approach": [
+        "method orientation in test approach"
+    ],
+    "mobile app testing": [
+        "mobile app testing",
+        "mobile application testing"
+    ],
+    "model coverage": [
+        "model coverage"
+    ],
+    "model verification": [
+        "model verification"
+    ],
+    "model-based testing": [
+        "model-based testing",
+        "mbt",
+        "mdt",
+        "model based testing",
+        "model driven testing",
+        "model-driven testing"
+    ],
+    "modified condition/decision coverage": [
+        "modified condition/decision coverage",
+        "condition determination coverage",
+        "mc/dc",
+        "modified multiple condition coverage"
+    ],
+    "multiple condition coverage": [
+        "multiple condition coverage",
+        "branch condition combination coverage",
+        "condition combination coverage"
+    ],
+    "n-switch coverage\nn-switch coverage": [
+        "n-switch coverage\nn-switch coverage",
+        "chow's coverage metric"
+    ],
+    "neuron coverage": [
+        "neuron coverage"
+    ],
+    "non-functional testing": [
+        "non-functional testing",
+        "extra-functional testing"
+    ],
+    "oracle orientation in test approach": [
+        "oracle orientation in test approach"
+    ],
+    "pair testing": [
+        "pair testing"
+    ],
+    "peer review": [
+        "peer review"
+    ],
+    "performance testing": [
+        "performance testing"
+    ],
+    "process orientation in test approach": [
+        "process orientation in test approach"
+    ],
+    "property-based testing": [
+        "property-based testing"
+    ],
+    "protocol or service testing": [
+        "protocol or service testing"
+    ],
+    "reactive testing": [
+        "reactive testing"
+    ],
+    "regression testing": [
+        "regression testing"
+    ],
+    "regulatory acceptance testing": [
+        "regulatory acceptance testing"
+    ],
+    "related to role": [
+        "related to role"
+    ],
+    "related to team": [
+        "related to team"
+    ],
+    "requirement coverage": [
+        "requirement coverage",
+        "requirements coverage"
+    ],
+    "requirements-based testing": [
+        "requirements-based testing"
+    ],
+    "risk oriented metric": [
+        "risk oriented metric",
+        "risk metric",
+        "risk-oriented metric"
+    ],
+    "risk-based testing": [
+        "risk-based testing"
+    ],
+    "safety testing": [
+        "safety testing"
+    ],
+    "scripted testing": [
+        "scripted testing"
+    ],
+    "security testing": [
+        "security testing"
+    ],
+    "session-based testing": [
+        "session-based testing",
+        "session based testing",
+        "session oriented testing",
+        "session-oriented testing"
+    ],
+    "software testing concepts": [
+        "software testing concepts"
+    ],
+    "specialist tester": [
+        "specialist tester"
+    ],
+    "specification coverage": [
+        "specification coverage",
+        "black box test metric",
+        "black-box test metric",
+        "specification based test metric",
+        "specification-based test metric"
+    ],
+    "state transition testing": [
+        "state transition testing"
+    ],
+    "statement coverage": [
+        "statement coverage",
+        "statement testing coverage"
+    ],
+    "statement testing": [
+        "statement testing"
+    ],
+    "static analysis": [
+        "static analysis"
+    ],
+    "static application security testing": [
+        "static application security testing"
+    ],
+    "static testing": [
+        "static testing"
+    ],
+    "stress testing": [
+        "stress testing"
+    ],
+    "structural coverage": [
+        "structural coverage",
+        "structure based test metric",
+        "structure-based test metric",
+        "white box test metric",
+        "white-box test metric"
+    ],
+    "system integration testing": [
+        "system integration testing"
+    ],
+    "system testing": [
+        "system testing"
+    ],
+    "target orientation in test approach": [
+        "target orientation in test approach"
+    ],
+    "technical review": [
+        "technical review"
+    ],
+    "test activity": [
+        "test activity"
+    ],
+    "test analysis": [
+        "test analysis"
+    ],
+    "test analyst": [
+        "test analyst",
+        "ta"
+    ],
+    "test approach": [
+        "test approach"
+    ],
+    "test architect": [
+        "test architect"
+    ],
+    "test automation": [
+        "test automation"
+    ],
+    "test automation engineer": [
+        "test automation engineer",
+        "tae",
+        "test automator"
+    ],
+    "test basis": [
+        "test basis"
+    ],
+    "test case": [
+        "test case",
+        "testcase"
+    ],
+    "test completion": [
+        "test completion"
+    ],
+    "test completion report": [
+        "test completion report",
+        "test summary report"
+    ],
+    "test condition": [
+        "test condition",
+        "test requirement",
+        "test situation"
+    ],
+    "test control": [
+        "test control"
+    ],
+    "test data": [
+        "test data",
+        "test data set",
+        "testdata",
+        "testdata set"
+    ],
+    "test design": [
+        "test design"
+    ],
+    "test designer": [
+        "test designer"
+    ],
+    "test director": [
+        "test director"
+    ],
+    "test execution": [
+        "test execution"
+    ],
+    "test implementation": [
+        "test implementation"
+    ],
+    "test item": [
+        "test item"
+    ],
+    "test leader": [
+        "test leader",
+        "lead tester"
+    ],
+    "test level": [
+        "test level",
+        "test phase",
+        "test stage"
+    ],
+    "test management": [
+        "test management"
+    ],
+    "test manager": [
+        "test manager"
+    ],
+    "test metric": [
+        "test metric",
+        "testmetric"
+    ],
+    "test model": [
+        "test model",
+        "test specification"
+    ],
+    "test monitoring": [
+        "test monitoring"
+    ],
+    "test object": [
+        "test object",
+        "object under test",
+        "sut",
+        "system under test",
+        "test target"
+    ],
+    "test objective": [
+        "test objective",
+        "test goal"
+    ],
+    "test oracle": [
+        "test oracle",
+        "oracle"
+    ],
+    "test plan": [
+        "test plan",
+        "testplan"
+    ],
+    "test planning": [
+        "test planning"
+    ],
+    "test process": [
+        "test process"
+    ],
+    "test process group": [
+        "test process group",
+        "tpg"
+    ],
+    "test process improvement": [
+        "test process improvement"
+    ],
+    "test progress report": [
+        "test progress report",
+        "test status report"
+    ],
+    "test report": [
+        "test report",
+        "testreport"
+    ],
+    "test script": [
+        "test script",
+        "test procedure specification"
+    ],
+    "test step": [
+        "test step",
+        "teststep"
+    ],
+    "test suite": [
+        "test suite",
+        "test case suite",
+        "test set",
+        "testcase suite",
+        "testset",
+        "testsuite"
+    ],
+    "test type": [
+        "test type"
+    ],
+    "test work force": [
+        "test work force"
+    ],
+    "tester": [
+        "tester"
+    ],
+    "tester orientation in test approach": [
+        "tester orientation in test approach"
+    ],
+    "testing": [
+        "testing"
+    ],
+    "testing in production": [
+        "testing in production"
+    ],
+    "testing quadrants": [
+        "testing quadrants"
+    ],
+    "testware": [
+        "testware",
+        "test artefact",
+        "test artifact"
+    ],
+    "usability testing": [
+        "usability testing"
+    ],
+    "user acceptance testing": [
+        "user acceptance testing"
+    ],
+    "user-agent based testing": [
+        "user-agent based testing"
+    ],
+    "walkthrough": [
+        "walkthrough",
+        "structured walkthrough"
+    ],
+    "white box test technique": [
+        "white box test technique",
+        "glass-box testing",
+        "structure based test design technique",
+        "structure based test technique",
+        "structure-based test design technique",
+        "structure-based test technique",
+        "white-box test technique"
+    ]
+}
